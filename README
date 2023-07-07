@@ -1,0 +1,5 @@
+Bayesian Graph Neural Networks
+
+An implementation of Graph Neural Networks using Jraph, Flax and NumPyro. 
+
+The problem is a Molecule classification task from Jraph's introductory colab notebook.
