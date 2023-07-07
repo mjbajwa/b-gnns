@@ -1,4 +1,4 @@
-Bayesian Graph Neural Networks
+# Bayesian Graph Neural Networks
 
 An implementation of Graph Neural Networks using Jraph, Flax and NumPyro. 
 
